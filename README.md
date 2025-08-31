@@ -396,7 +396,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 - [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
 - [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C/deb`
 - [Piler](https://www.mailpiler.org/) - Feature-rich email archiving solution. ([Source Code](https://github.com/jsuto/piler/)) `GPL-3.0` `C`
-- [OpenArchiver](https://openarchiver.com/) - Open Archiver is a secure, self-hosted email archiving solution, and it's completely open source.([Source Code](https://github.com/LogicLabs-OU/OpenArchiver/)) `AGPL-3.0`
+- [OpenArchiver](https://openarchiver.com/) - Open Archiver is a secure, self-hosted email archiving solution, and it's completely open source. ([Source Code](https://github.com/LogicLabs-OU/OpenArchiver/)) `AGPL-3.0`
 
 
 ### Communication - Email - Mail Transfer Agents
